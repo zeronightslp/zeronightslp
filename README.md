@@ -20,3 +20,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+<a href="https://encurta.net/ref/Zeronight" target="_blank" ><img src="https://snipboard.io/hHtLBP.jpg" alt="EncurtaNet" /></a> 
