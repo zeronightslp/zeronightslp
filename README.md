@@ -1,12 +1,12 @@
-
-## Olá, muito prazer eu sou zeronight
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPz0OOA33yvi4BLJy-LKMhw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeronight_slp)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whit)](https://wa.me/5511941231419)
 [![ Discord ](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/45BP4kbqfX )
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](/https://www.facebook.com/profile.php?id=100078097912664)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](/[https://www.facebook.com/profile.php?id=100078097912664](https://m.facebook.com/profile.php?id=100012673359851))
+ <a href="https://encurta.net/ref/Zeronight" target="_blank" ><img src="https://snipboard.io/hHtLBP.jpg" alt="EncurtaNet" /></a> 
+![ Estatísticas do Zeronight GitHub ](https://github-readme-stats.vercel.app/api?username=zeronightslp&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu utilizo no meu dia a dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,4 +18,3 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-<a href="https://encurta.net/ref/Zeronight" target="_blank" ><img src="https://blog.encurta.net/wp-content/uploads/2017/07/728x90.png" alt="EncurtaNET" /></a> 
