@@ -1,5 +1,5 @@
 ## Olá, eu sou Zeronight 
- apenas um jovem buscando ter uma vida tranquilá
+ Sou apenas um jovem buscando ter uma vida boa, se quiser se juntar a essa jornada entre em contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeronight_slp)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whit)](https://wa.me/5511941231419)
