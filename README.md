@@ -5,8 +5,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whit)](https://wa.me/5511941231419)
 [![ Discord ](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bEbfnrc8bk )
 
-![ Estatísticas do Zeronight GitHub ](https://github-readme-stats.vercel.app/api?username=zeronightslp&show_icons=true&theme=radical)
-
 ## Tecnologias que eu utilizo no meu dia a dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
