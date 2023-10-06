@@ -1,7 +1,7 @@
 ## Olá, eu sou Zeronight 
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zeronightslp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/zeronightslp?trk=profile-badge">João Lucas</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="zeronightslp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/zeronightslp?trk=profile-badge">João Lucas</a></div>
+
  Sou apenas um jovem buscando ter uma vida boa, se quiser se juntar a essa jornada entre em contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeronight_slp)
